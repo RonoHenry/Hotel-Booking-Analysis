@@ -20,7 +20,7 @@ This project analyzes the `hotel_bookings.csv` dataset to uncover trends in hote
 - Build and evaluate a machine learning model to predict cancellations.
 
 ### 📊 Dataset
-- **Source**: `data/hotel_bookings.csv` (assumed to be the Kaggle Hotel Booking Demand dataset).
+- **Source**: `data/hotel_bookings.csv` (Kaggle Hotel Booking Demand dataset).
 - **Key Columns**: `hotel`, `is_canceled`, `lead_time`, `children`, `country`, `adr`, `market_segment`, etc.
 
 ### 🎨 Color Palette
