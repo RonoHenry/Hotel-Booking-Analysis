@@ -32,12 +32,6 @@ This project explores and models hotel booking behavior using the `hotel_booking
 - **Source**: `data/hotel_bookings.csv` (Kaggle Hotel Booking Demand dataset).
 - **Key Columns**: `hotel`, `is_canceled`, `lead_time`, `children`, `country`, `adr`, `market_segment`, etc.
 
-### 🎨 Color Palette
-Inspired by interior design principles:
-- **Warm Tones**: Represent resort hotels.
-- **Cool Tones**: Represent city hotels.
-- **Neutral Tones**: Used for cancellation trends.
-
 ## 🛠️ Setup Instructions
 1. Clone the repository:
    ```bash
