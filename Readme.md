@@ -1,5 +1,12 @@
 # Hotel Booking Analysis
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
+![Data Cleaned](https://img.shields.io/badge/Data-Cleaned-blue)
+![Model Trained](https://img.shields.io/badge/Model-Trained-green)
+![Visualizations Created](https://img.shields.io/badge/Visualizations-Created-orange)
+
 ## Project Overview
 This project analyzes the `hotel_bookings.csv` dataset to uncover trends in hotel bookings, focusing on cancellation patterns, booking behaviors, and key factors influencing cancellations. The analysis includes data preprocessing, exploratory data analysis (EDA), visualizations, and a predictive model for cancellations.
 
