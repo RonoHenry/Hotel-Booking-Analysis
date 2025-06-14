@@ -1,17 +1,26 @@
-# Hotel Booking Analysis
+# 🏨 Hotel Booking Analysis
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
-![Data Cleaned](https://img.shields.io/badge/Data-Cleaned-blue)
-![Model Trained](https://img.shields.io/badge/Model-Trained-green)
-![Visualizations Created](https://img.shields.io/badge/Visualizations-Created-orange)
-![Creative Analysis](https://img.shields.io/badge/Creative-Analysis-purple)
-![Design Meets Data](https://img.shields.io/badge/Design-Meets-Data-yellow)
-![Aesthetic Visualizations](https://img.shields.io/badge/Aesthetic-Visualizations-pink)
+![Python](https://img.shields.io/badge/python-3.8+-blue)
+![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-success)
+![Data Status](https://img.shields.io/badge/data-cleaned-blue)
+![Model Status](https://img.shields.io/badge/model-trained-green)
+![Visuals](https://img.shields.io/badge/visualizations-created-orange)
+![Analysis](https://img.shields.io/badge/analysis-creative-purple)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-## 🏨 Project Overview
-This project analyzes the `hotel_bookings.csv` dataset to uncover trends in hotel bookings, focusing on cancellation patterns, booking behaviors, and key factors influencing cancellations. The analysis includes data preprocessing, exploratory data analysis (EDA), visualizations, and a predictive model for cancellations.
+---
+
+## 📌 Project Overview
+
+This project explores and models hotel booking behavior using the `hotel_bookings.csv` dataset (sourced from [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)). It focuses on:
+
+- Understanding booking trends and cancellation patterns  
+- Cleaning and preparing the dataset for analysis  
+- Performing in-depth Exploratory Data Analysis (EDA)  
+- Visualizing key business insights for stakeholders  
+- Building a predictive model to forecast booking cancellations  
+
 
 ### 🎯 Objectives
 - Understand cancellation rates by hotel type, market segment, and lead time.
